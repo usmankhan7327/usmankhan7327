@@ -4,16 +4,8 @@
 
 I'm an indie full-stack developer and Automation Expert building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All Work you see and will see are built by me some are professioanl work and some are just my personal project for learnning.
 
-   <p align="left">
-      <a href="usmankhan7327.com">
-         <img alt="Solid technical expertise" title="Solid technical expertise" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/></a> 
-      <a href="usmankhan7327.com">
-         <img alt="Fast self learner" title="Fast self learner" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="Maintains an end user focus" title="Maintains an end user focus" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/></a>
-      <a href="https://github.com/usmankhan7327?tab=repositories&sort=stargazers">
+   
          
-   </p>
 
 ---
 
