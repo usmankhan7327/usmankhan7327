@@ -42,7 +42,7 @@ I'm an indie full-stack developer and Automation Expert building my version of t
 
 ![Usman GitHub stats](https://github-readme-stats.vercel.app/api?username=usmankhan7327&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=usmankhan7327&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=usmankhan7327&theme=gruvbox&border_radius=4.5)
 
 #
 
