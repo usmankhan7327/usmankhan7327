@@ -2,7 +2,7 @@
 
 **`IT Craftsman (Developer/Automation Expert)`**
 
-I'm an indie full-stack developer and Automation Expert building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches.
+I'm an indie full-stack developer and Automation Expert building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All Work you see and will see are built by me some are professioanl work and some are just my personal project for learnning.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
