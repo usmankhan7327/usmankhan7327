@@ -1,6 +1,6 @@
 # 🏄‍♂️ Muhammad Usman
 
-**`IT Craftsman (Web Developer/Automation Expert)`**
+**`IT Craftsman (Web Developer/Automation Expert/Cyber Security Enthusiast)`**
 
 I'm an indie full-stack developer and Automation Expert building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All Work you see and will see are built by me some are professioanl work and some are just my personal project for learnning.
 
