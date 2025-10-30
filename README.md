@@ -23,7 +23,7 @@ Hi there! I'm a passionate full-stack developer and automation expert who loves 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" height="35" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="35" height="35" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="35" height="35" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="35" height="35" alt="Rust" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="35" height="35" alt="Rust" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" width="35" height="35" alt="C++" />
 </p>
 
@@ -40,8 +40,7 @@ Hi there! I'm a passionate full-stack developer and automation expert who loves 
 
 ### 🧠 About Me
 
-I began my coding journey as a curious computer science student eager to explore the world of programming — from UNIX and Linux systems to game development and cybersecurity. Over time, I discovered my true passion in **web development** and **automation**, blending creativity with logic to build efficient, scalable digital solutions.  
-I’m continuously learning and experimenting — whether it’s mastering new frameworks or exploring ethical hacking to strengthen system security.
+My journey in tech began with a simple curiosity about how things work behind the screen. That curiosity quickly evolved into a deep passion for creating and optimizing digital systems. Today, I specialize in full-stack web development and automation, crafting clean, scalable solutions that bring ideas to life. I take pride in writing efficient, secure code and continuously expanding my expertise across modern technologies and cybersecurity ensuring every project I build is both innovative and reliable.
 
 ---
 
