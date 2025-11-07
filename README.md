@@ -2,7 +2,7 @@
 
 **`Full Stack Developer | Automation Expert | Cybersecurity Enthusiast`**
 
-Hi there! I'm a passionate full-stack developer and automation expert who loves solving real-world problems with clean, efficient code. I build end-to-end web solutions — from planning and designing to deployment and maintenance. Some of my projects are professional work, while others are personal experiments that fuel my learning journey.
+Hi there! I'm a passionate full-stack developer and automation expert who loves solving real-world problems with clean, efficient code. I build end to end web solutions from planning and designing to deployment and maintenance. Some of my projects are professional work, while others are personal experiments that fuel my learning journey.
 
 ---
 
