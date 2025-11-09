@@ -1,8 +1,8 @@
 # 👨‍💻 Muhammad Usman
 
-**`Full Stack Developer | Automation Expert | Cybersecurity Enthusiast`**
+**`Offensive Security Learner | Aspiring Red Teamer | Full Stack Developer`**
 
-Hi there! I'm a passionate full-stack developer and automation expert who loves solving real-world problems with clean, efficient code. I build end to end web solutions from planning and designing to deployment and maintenance. Some of my projects are professional work, while others are personal experiments that fuel my learning journey.
+Aspiring Red Teamer with a strong background in Web Development (PHP, Laravel, Vue.js). Passionate about offensive security, vulnerability assessment, and secure code practices. Focused on bridging the gap between development and cybersecurity to build and protect real world applications.
 
 ---
 
@@ -43,7 +43,7 @@ Hi there! I'm a passionate full-stack developer and automation expert who loves 
 
 ### 🧠 About Me
 
-My journey in tech began with a simple curiosity about how things work behind the screen. That curiosity quickly evolved into a deep passion for creating and optimizing digital systems. Today, I specialize in full-stack web development and automation, crafting clean, scalable solutions that bring ideas to life. I take pride in writing efficient, secure code and continuously expanding my expertise across modern technologies and cybersecurity ensuring every project I build is both innovative and reliable.
+My journey in tech began with a simple curiosity about how things work behind the screen. That curiosity quickly evolved into a deep passion for creating and optimizing digital systems. Today, I specialize in full stack web development and automation, crafting clean, scalable solutions that bring ideas to life. I take pride in writing efficient, secure code and continuously expanding my expertise across modern technologies and cybersecurity ensuring every project I build is both innovative and reliable.
 
 ---
 
