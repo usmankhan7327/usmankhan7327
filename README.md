@@ -2,7 +2,7 @@
 
 **`Offensive Security Learner | Aspiring Red Teamer | Full Stack Developer`**
 
-Aspiring Red Teamer with a strong background in Web Development (PHP, Laravel, Vue.js). Passionate about offensive security, vulnerability assessment, and secure code practices. Focused on bridging the gap between development and cybersecurity to build and protect real world applications.
+Aspiring Red Teamer with a strong background in Web Development. Passionate about offensive security, vulnerability assessment, and secure code practices. Focused on bridging the gap between development and cybersecurity to build and protect real world applications.
 
 ---
 
