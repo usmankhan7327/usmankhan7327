@@ -62,7 +62,7 @@ Aspiring Red Teamer with a strong background in Web Development. Passionate abou
 
 ### 🧠 About Me
 
-My journey in tech began with a simple curiosity about how things work behind the screen. That curiosity quickly evolved into a deep passion for creating and optimizing digital systems. Today, I specialize in full stack web development and automation, crafting clean, scalable solutions that bring ideas to life. I take pride in writing efficient, secure code and continuously expanding my expertise across modern technologies and cybersecurity ensuring every project I build is both innovative and reliable.
+My journey in tech began with a simple curiosity about how things work behind the screen. That curiosity soon transformed into a deep passion for cybersecurity understanding how systems can be protected, hardened, and defended against evolving threats. Today, I focus on securing digital infrastructures, analyzing vulnerabilities, and developing automated solutions to enhance system resilience. I take pride in maintaining high security standards and continuously expanding my expertise to stay ahead in the ever changing cybersecurity landscape.
 
 ---
 
