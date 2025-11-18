@@ -40,8 +40,8 @@ Aspiring Red Teamer with a strong background in Web Development. Passionate abou
 <img src="https://github.com/devicons/devicon/blob/master/icons/kalilinux/kalilinux-original-wordmark.svg" width="35" height="35" alt="Kali Linux" />
 <img src="https://img.icons8.com/color/48/metasploit.png" width="35" height="35" alt="Metasploit" />
 <img src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" width="35" height="35" alt="Burp Suite" />
-<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Wireshark_Logo.svg" width="35" height="35" alt="Wireshark" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Nmap_logo.svg" width="35" height="35" alt="Nmap" />
+<img src="https://gitlab.com/uploads/-/system/project/avatar/7898047/wsicon180.png" width="35" height="35" alt="Wireshark" />
+<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Nmap_logo.svg" width="35" height="35" alt="Nmap" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Parrot-logo.png" width="35" height="35" alt="Parrot OS" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tor_Browser_logo.svg" width="35" height="35" alt="Tor" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/John_the_Ripper_logo.png" width="35" height="35" alt="John the Ripper" />
