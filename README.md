@@ -58,8 +58,38 @@ Aspiring Red Teamer with a strong background in Web Development. Passionate abou
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usmankhan7327&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160" />
 </p> -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usmankhan7327&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmankhan7327&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <a href="https://github.com/usmankhan7327#gh-dark-mode-only">
+  <img
+    src="https://github-readme-stats-eight-alpha-58.vercel.app/api?username=usmankhan7327&theme=midnight-purple&show_icons=true&hide_border=true#gh-dark-mode-only"
+    alt="Usman's GitHub Stats (Dark)"
+    height="160"
+  />
+</a>
+
+<a href="https://github.com/usmankhan7327#gh-light-mode-only">
+  <img
+    src="https://github-readme-stats-eight-alpha-58.vercel.app/api?username=usmankhan7327&theme=buefy&show_icons=true&hide_border=true#gh-light-mode-only"
+    alt="Usman's GitHub Stats (Light)"
+    height="160"
+  />
+</a>
+
+<a href="https://github.com/usmankhan7327#gh-dark-mode-only">
+  <img
+    src="https://github-readme-streak-stats-six.vercel.app/?user=usmankhan7327&theme=midnight-purple&hide_border=true#gh-dark-mode-only"
+    alt="Usman's GitHub Streak (Dark)"
+    height="160"
+  />
+</a>
+
+<a href="https://github.com/usmankhan7327#gh-light-mode-only">
+  <img
+    src="https://github-readme-streak-stats-six.vercel.app/?user=usmankhan7327&theme=buefy&hide_border=true#gh-light-mode-only"
+    alt="Usman's GitHub Streak (Light)"
+    height="160"
+  />
+</a>
+
 </p>
 
 ---
