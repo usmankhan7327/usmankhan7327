@@ -1,6 +1,6 @@
 # 👨‍💻 Muhammad Usman
 
-**`Offensive Security Learner | Aspiring Red Teamer | Full Stack Developer`**
+**`Offensive Security | Web Application Security | Laravel Developer | Python Automation`**
 
 Offensive security and web application security enthusiast with hands-on lab experience (HTB, TryHackMe, PortSwigger) and a strong background in Laravel development and Python automation.
 
