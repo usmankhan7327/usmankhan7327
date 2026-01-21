@@ -2,7 +2,7 @@
 
 **`Offensive Security | Web Application Security | Laravel Developer | Python Automation`**
 
-Offensive security and web application security enthusiast with hands-on lab experience (HTB, TryHackMe, PortSwigger) and a strong background in Laravel development and Python automation.
+Offensive Security & Web Application Security enthusiast with hands-on experience in CTFs, labs, and real-world simulations. Strong background in Laravel development and Python-based automation, with a focus on discovering and mitigating web vulnerabilities.
 
 ---
 
