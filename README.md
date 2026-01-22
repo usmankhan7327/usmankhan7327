@@ -14,7 +14,7 @@ Offensive Security & Web Application Security enthusiast with hands-on experienc
 <img src="https://github.com/devicons/devicon/blob/master/icons/kalilinux/kalilinux-original-wordmark.svg" width="35" height="35" alt="Kali Linux" />
 <img src="https://img.icons8.com/color/48/metasploit.png" width="35" height="35" alt="Metasploit" />
 <img src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" width="35" height="35" alt="Burp Suite" />
-<img src="https://gitlab.com/uploads/-/system/project/avatar/7898047/wsicon180.png" width="35" height="35" alt="Wireshark" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuMfgBORuDwoTn7hQTdbohge9wOGntHZFTvQ&s" width="35" height="35" alt="Wireshark" />
 <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Nmap_logo.svg" width="35" height="35" alt="Nmap" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Parrot-logo.png" width="35" height="35" alt="Parrot OS" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tor_Browser_logo.svg" width="35" height="35" alt="Tor" />
@@ -53,10 +53,6 @@ Offensive Security & Web Application Security enthusiast with hands-on experienc
 
 ### 📈 GitHub Analytics
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usmankhan7327&show_icons=true&theme=tokyonight&hide_border=true" alt="Usman's GitHub Stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usmankhan7327&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160" />
-</p> -->
 <p align="center">
   <a href="https://github.com/usmankhan7327#gh-dark-mode-only">
   <img
