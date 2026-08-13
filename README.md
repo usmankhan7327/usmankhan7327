@@ -43,10 +43,11 @@ Offensive Security & Web Application Security enthusiast with hands-on experienc
 
 <tr>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="35"/><br>Laravel</td>
-<!-- <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="35"/><br>HTML5</td> -->
-<!-- <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="35"/><br>CSS3</td> -->
-<td></td>
-<td></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="35"/><br>Go</td>
+<td align="center"><img src="https://www.svgrepo.com/show/331601/tenable.svg" width="35"/><br>Nessus</td>
+<td align="center"><img src="https://hashcat.net/s/i/hashcat-icon.png" width="35"/><br>Hashcat</td>
+<!-- <td></td>
+<td></td> -->
 </tr>
 </table>
 
