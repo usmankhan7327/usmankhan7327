@@ -2,7 +2,7 @@
 
 **`Offensive Security | AppSec | Red Teaming`**
 
-Offensive Security & Web Application Security enthusiast with hands-on experience in CTFs, labs, and real-world simulations. Strong background in Laravel development and Python-based automation, with a focus on discovering and mitigating web vulnerabilities.
+Offensive Security & Web Application Security enthusiast with hands on experience in CTFs, labs, and real world simulations. Strong background in Laravel development and Python based automation, with a focus on discovering and mitigating web vulnerabilities.
 
 ---
 
