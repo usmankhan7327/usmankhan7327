@@ -95,13 +95,13 @@ class UsmanKhan:
 
 ### 🧪 Labs & Learning Platforms
 
-<a href="https://www.hackthebox.com/">
+<a href="https://www.hackthebox.com/users/1414521">
 <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
 </a>
 <a href="https://portswigger.net/web-security">
 <img src="https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
 </a>
-<a href="https://tryhackme.com/">
+<a href="https://tryhackme.com/p/Amatairasu">
 <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
 </a>
 
